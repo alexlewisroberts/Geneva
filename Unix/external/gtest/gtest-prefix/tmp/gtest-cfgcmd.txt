@@ -1,0 +1,1 @@
+cmd='/usr/local/Cellar/cmake/2.8.12/bin/cmake;-GUnix Makefiles;/Users/Hannes/Documents/Geneva/trunk/external/gtest/gtest-1.6.0'

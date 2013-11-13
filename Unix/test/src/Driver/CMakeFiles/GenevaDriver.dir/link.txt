@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../../../lib/libGenevaDriver.a  CMakeFiles/GenevaDriver.dir/EventGeneratorUnweighted.cpp.o CMakeFiles/GenevaDriver.dir/EventGeneratorWeighted.cpp.o CMakeFiles/GenevaDriver.dir/Geneva.cpp.o
+/usr/bin/ranlib ../../../../lib/libGenevaDriver.a
