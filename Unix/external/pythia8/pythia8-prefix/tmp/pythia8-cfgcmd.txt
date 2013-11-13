@@ -1,0 +1,1 @@
+cmd='./configure;--enable-shared;--enable-debug;--with-hepmc=/Users/Hannes/Documents/Geneva/trunk/external;--with-hepmcversion=2'

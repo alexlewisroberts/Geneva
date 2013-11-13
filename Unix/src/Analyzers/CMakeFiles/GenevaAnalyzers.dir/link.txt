@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../../../lib/libGenevaAnalyzers.a  CMakeFiles/GenevaAnalyzers.dir/AnalyzerFactory.cpp.o CMakeFiles/GenevaAnalyzers.dir/AnalyzerRates.cpp.o CMakeFiles/GenevaAnalyzers.dir/AnalyzerEfficiency.cpp.o CMakeFiles/GenevaAnalyzers.dir/AnalyzerSCETee234.cpp.o CMakeFiles/GenevaAnalyzers.dir/AnalyzerSCETppV012.cpp.o CMakeFiles/GenevaAnalyzers.dir/Hist1D.cpp.o CMakeFiles/GenevaAnalyzers.dir/Observable.cpp.o CMakeFiles/GenevaAnalyzers.dir/SingleObservable.cpp.o
+/usr/bin/ranlib ../../../../lib/libGenevaAnalyzers.a

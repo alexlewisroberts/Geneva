@@ -1,0 +1,3 @@
+repository='external project URL'
+module='http://home.thep.lu.se/~torbjorn/pythia8/pythia8170.tgz'
+tag='MD5=d8b4994b2976f9789e84fd00019337ee'

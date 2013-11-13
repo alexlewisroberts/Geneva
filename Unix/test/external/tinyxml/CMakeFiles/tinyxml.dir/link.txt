@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -O2 -g  -O2 -dynamiclib -Wl,-headerpad_max_install_names   -o ../../../../external/lib/libtinyxml.dylib -install_name /Users/Hannes/Documents/Geneva/trunk/external/lib/libtinyxml.dylib CMakeFiles/tinyxml.dir/tinystr.cpp.o CMakeFiles/tinyxml.dir/tinyxml.cpp.o CMakeFiles/tinyxml.dir/tinyxmlerror.cpp.o CMakeFiles/tinyxml.dir/tinyxmlparser.cpp.o 

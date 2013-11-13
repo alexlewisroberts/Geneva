@@ -1,0 +1,1 @@
+/usr/local/bin/gfortran  -O2 -g -DNDEBUG -dynamiclib -Wl,-headerpad_max_install_names   -o ../../../../external/lib/libevent2.dylib -install_name /Users/Hannes/Documents/Geneva/trunk/external/lib/libevent2.dylib CMakeFiles/event2.dir/Event2Lib.f.o -lgfortran -lquadmath -lm 

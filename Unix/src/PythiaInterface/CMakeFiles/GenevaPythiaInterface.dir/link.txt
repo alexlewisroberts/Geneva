@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../../../lib/libGenevaPythiaInterface.a  CMakeFiles/GenevaPythiaInterface.dir/LHAupGeneva.cpp.o CMakeFiles/GenevaPythiaInterface.dir/PythiaInterface.cpp.o CMakeFiles/GenevaPythiaInterface.dir/PythiaUtils.cpp.o CMakeFiles/GenevaPythiaInterface.dir/UserHookRestriction.cpp.o
+/usr/bin/ranlib ../../../../lib/libGenevaPythiaInterface.a

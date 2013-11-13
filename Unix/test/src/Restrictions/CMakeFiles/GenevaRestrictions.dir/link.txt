@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../../../lib/libGenevaRestrictions.a  CMakeFiles/GenevaRestrictions.dir/InvariantMassRestriction.cpp.o CMakeFiles/GenevaRestrictions.dir/RestrictionFactory.cpp.o
+/usr/bin/ranlib ../../../../lib/libGenevaRestrictions.a

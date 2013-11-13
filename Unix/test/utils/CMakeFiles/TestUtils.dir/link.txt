@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../../../lib/libTestUtils.a  CMakeFiles/TestUtils.dir/TestDataReader.cpp.o CMakeFiles/TestUtils.dir/TestUtils.cpp.o CMakeFiles/TestUtils.dir/InputGenerator.cpp.o CMakeFiles/TestUtils.dir/ConfigurationBank.cpp.o
+/usr/bin/ranlib ../../../../lib/libTestUtils.a

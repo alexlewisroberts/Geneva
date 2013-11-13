@@ -1,0 +1,3 @@
+repository='external project URL'
+module='http://lcgapp.cern.ch/project/simu/HepMC/download/HepMC-2.06.08.tar.gz'
+tag='MD5=a2e889114cafc4f60742029d69abd907'

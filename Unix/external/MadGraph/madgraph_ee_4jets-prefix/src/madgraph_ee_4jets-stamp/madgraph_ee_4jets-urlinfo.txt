@@ -1,0 +1,3 @@
+repository='external project URL'
+module='/Users/Hannes/Documents/Geneva/trunk/external/MadGraph/existing_processes/ee_4jets.tar.gz'
+tag=''

@@ -1,0 +1,1 @@
+cmd='./configure;--prefix=/Users/Hannes/Documents/Geneva/trunk/external;--disable-python;--enable-debug'

@@ -1,0 +1,1 @@
+cmd='/usr/local/Cellar/cmake/2.8.12/bin/cmake;/Users/Hannes/Documents/Geneva/trunk/external/HepMC/HepMC-2.06.08;-Dmomentum:string=GEV;-Dlength:string=MM;-DCMAKE_INSTALL_PREFIX=/Users/Hannes/Documents/Geneva/trunk/external;-DCMAKE_BUILD_TYPE=RelWithDebInfo;-DCMAKE_INSTALL_NAME_DIR=/Users/Hannes/Documents/Geneva/trunk/external/lib'

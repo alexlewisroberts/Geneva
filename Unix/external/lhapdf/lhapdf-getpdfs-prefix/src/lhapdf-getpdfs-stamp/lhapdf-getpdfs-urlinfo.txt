@@ -1,0 +1,3 @@
+repository='external project URL'
+module='http://www.hepforge.org/archive/lhapdf/pdfsets/6.0/CT10nlo.tar.gz'
+tag=''

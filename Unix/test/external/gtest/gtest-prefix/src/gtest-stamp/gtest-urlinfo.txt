@@ -1,0 +1,3 @@
+repository='external project URL'
+module='http://googletest.googlecode.com/files/gtest-1.6.0.zip'
+tag='MD5=4577b49f2973c90bf9ba69aa8166b786'
